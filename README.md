@@ -1,4 +1,4 @@
-# Fortech
+# Fortech client
 
 to run this project:
 1 npm install
